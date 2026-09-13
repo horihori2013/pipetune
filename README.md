@@ -3,6 +3,7 @@
 **NewPipe Extractorを利用したOSS音楽プレイヤー**
 
 > English version is available below.
+> PipeTune is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
 
 PipeTuneは、**MusicBrainzを音楽情報のソースとして利用し、YouTubeから音声ストリームのみを取得して再生するAndroid向けOSS音楽プレイヤー**です。
 
@@ -212,6 +213,8 @@ Audio streams are retrieved using **NewPipe Extractor**, with **yt-dlp** availab
 
 PipeTune does not depend on YouTube Music for obtaining audio streams.
 
+> PipeTune is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
 ### Features
 
 * MusicBrainz-based music search
@@ -267,4 +270,6 @@ Playback
 
 ### License
 
-License information will be added after the project license is finalized.
+PipeTune is licensed under the **GNU General Public License v3.0**.
+
+See [`LICENSE`](LICENSE) for the full license text.
